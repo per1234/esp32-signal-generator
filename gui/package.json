@@ -6,6 +6,6 @@
     },
     "scripts": {
         "dev": "parcel index.html",
-        "build": "rm ../data/*; parcel build index.html; cp dist/index.html ../data"
+        "build": "rm ../SigGen/data/*; parcel build index.html; cp dist/index.html ../SigGen/data"
     }
 }
